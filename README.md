@@ -13,6 +13,6 @@
 - Example Command using [toil](https://toil.readthedocs.io):
 
 ```bash
-    > toil-cwl-runner bwa-mem.cwl inputs.yaml
+    > toil-cwl-runner bwa_mem.cwl inputs.yaml
 ```
 
